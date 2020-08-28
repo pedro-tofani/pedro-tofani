@@ -7,7 +7,7 @@ Meu nome é Pedro Henrique, sou de Belo Horizonte, Brasil. Atualmente estudo des
 
 - 🌱 Atualmente estou aprendendo conceitos de ciência da computação e sobre Web Crawling
 
-- 🔎 O que já sei: https://github.com/PHTF92/PHTF92/tree/master/images
+- 🔎 O que já sei
 
 <code><img height="22" src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/html.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/css.jpeg"></code>
