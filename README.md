@@ -1,11 +1,13 @@
 ### Opa ✋
 
-Fala pessoal, minhas boas vindas à você!
-Meu nome é Pedro Henrique, sou de Belo Horizonte, Brasil. Atualmente estudo desenvolvimento web na Trybe. Do currículo dessa escola já terminei os módulos de front-end e back-end, estando atualmente no módulo de ciência da computação! 💻💾🖱️ Em Julho/2020 passei para o programa de Trainee na Sydle e trabalho agora como engenheiro de software. 📈⚙️🔗
+Fala, pessoal! Bem vindos à minha página! :blush:
+Meu nome é Pedro Henrique, sou de Belo Horizonte, Minas Gerais, Brasil.
+Atualmente estou no último mês do curso de desenvolvimento web na Trybe :stuck_out_tongue_winking_eye:. Do currículo dessa escola já terminei os módulos de front-end e back-end, faltando apenas concluir o módulo de ciência da computação! 💻💾🖱️
+Em Julho/2020 passei no programa de Trainee na Sydle e agora trabalho como engenheiro de software. 📈⚙️🔗
 
-- ⚡ Meus hobbies: futebol, cerveja com os amigos, livros de mistério e suspense e programar!
+- ⚡ Meus hobbies: futebol, cerveja com os amigos, livros de mistério e programar!
 
-- 🌱 Atualmente estou aprendendo conceitos de ciência da computação e sobre Web Crawling
+- 🌱 Projetos pessoais: Web Crawling
 
 - 🔎 O que já sei
 
