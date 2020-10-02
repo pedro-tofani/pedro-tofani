@@ -33,6 +33,6 @@ Em Julho/2020 passei no programa de Trainee na Sydle e agora trabalho como engen
   <a href="https://www.linkedin.com/in/pedro-henrique-tofani-ferreira/">
     <img align="left" alt="PedroLinkedIn" width="30px" src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/linkedIn.png" />
   </a>
-  <a href="mailto:phtf92@gmail.com">
+  <a href="mailto:ph.tofani@gmail.com">
     <img align="left" alt="PedroGmail" width="30px" src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/gmail.png" />
   </a>
