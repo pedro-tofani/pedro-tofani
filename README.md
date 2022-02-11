@@ -1,18 +1,14 @@
-### Opa ✋
+### Hello ✋
 
-Fala, pessoal! Bem vindos à minha página! :blush:
+Hi, guys! Welcome to my page! :blush:
 
-Meu nome é Pedro Henrique, sou de Belo Horizonte, Minas Gerais, Brasil.
+My name is Pedro Henrique, I am from Belo Horizonte, Minas Gerais, Brazil.
 
-<!-- Me formei no curso de desenvolvimento web na Trybe :stuck_out_tongue_winking_eye:. Passei pelos módulos de front-end, back-end, e ciência da computação! 💻💾🖱️
+Since july/2020 I am a software developer at SYDLE, working with Java, Javascript, Elasticsearch, MongoDB and ReactJs. 📈⚙️🔗
 
-Em Julho/2020 passei no programa de Trainee na Sydle e agora trabalho como engenheiro de software. 📈⚙️🔗 -->
+- ⚡ My hobbies: soccer, beer with friends, books, movies and ...programming! :joy:
 
-- ⚡ Meus hobbies: futebol, cerveja com os amigos, livros de mistério e programar!
-
-- 🌱 Projetos pessoais: Web Crawling
-
-- 🔎 O que já sei
+- 🔎 What I know:
 
 <code><img height="22" src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/html.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/css.jpeg"></code>
@@ -29,9 +25,9 @@ Em Julho/2020 passei no programa de Trainee na Sydle e agora trabalho como engen
 <code><img height="20" src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/linux.png"></code>
 
+Feel free to visit my projects and feel free to ask me anything! :wink:
 
-
-- 📫 Como me contactar:
+- 📫 How to contact me:
 
   <a href="https://www.linkedin.com/in/pedro-henrique-tofani-ferreira/">
     <img align="left" alt="PedroLinkedIn" width="30px" src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/linkedIn.png" />
