@@ -21,11 +21,11 @@ I am a Data Engineer at a3Data, working with Python, AWS, AWS lambda-functions, 
   <img align="center" alt="airflow" height="30" width="40" src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/airflow.png">
   <img align="center" alt="spark" height="30" width="40" src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/spark.png">
 
-</div>
+</div><br>
 
 
 
-Feel free to visit my projects and feel free to ask me anything! :wink:
+Feel free to visit my projects and to ask me anything! :wink:
 
 - 📫 How to contact me:
 
