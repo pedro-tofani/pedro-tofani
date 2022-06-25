@@ -4,7 +4,7 @@ Hi, guys! Welcome to my page! :blush:
 
 My name is Pedro Henrique, I am from Belo Horizonte, Minas Gerais, Brazil.
 
-Since feb/2020 I am a Data Engineer at a3Data, working with Python, AWS, AWS lambda-functions, S3 storage, SQL, NoSQL and airflow. 📈⚙️🔗
+I am a Data Engineer at a3Data, working with Python, AWS, AWS lambda-functions, S3 storage, Spark, ETL, SQL, NoSQL and airflow. 📈⚙️🔗
 
 - ⚡ My hobbies: soccer, beer with friends, books, movies and ...programming! :joy:
 
