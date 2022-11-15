@@ -19,16 +19,16 @@ Feel free to visit my repositories and to ask me anything! :wink: They have dife
 <img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python logo" title="Python" height="25" /> &nbsp;
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /> &nbsp;
 
-<img src="https://img.shields.io/badge/Docker-282C34?logo=docker" alt="Docker logo" title="Docker" height="25" /> &nbsp;
 <img src="https://img.shields.io/badge/Git-282C34?logo=git" alt="Git logo" title="Git" height="25" /> &nbsp;
 <img src="https://img.shields.io/badge/linux-282C34?logo=linux" alt="linux logo" title="linux" height="25" /> &nbsp;
+<img src="https://img.shields.io/badge/Docker-282C34?logo=docker" alt="Docker logo" title="Docker" height="25" /> &nbsp;
+<img src="https://img.shields.io/badge/Kubernetes-282C34?logo=Kubernetes" alt="Kubernetes logo" title="Kubernetes" height="25" /> &nbsp;
 
 <img src="https://img.shields.io/badge/SQL-282C34?logo=PostgreSQL" alt="PostgreSQL logo" title="PostgreSQL" height="25" /> &nbsp;
 <img src="https://img.shields.io/badge/NoSQL-282C34?logo=MongoDB" alt="MongoDB logo" title="MongoDB" height="25" /> &nbsp;
 
 <img src="https://img.shields.io/badge/Apache Airflow-282C34?logo=Apache Airflow&logoColor=F7DF1E" alt="Apache Airflow logo" title="Apache Airflow" height="25" /> &nbsp;
 <img src="https://img.shields.io/badge/Apache Spark-282C34?logo=Apache Spark&logoColor=fc4e03" alt="Apache Spark logo" title="Apache Spark" height="25" /> &nbsp;
-<img src="https://img.shields.io/badge/Kubernetes-282C34?logo=Kubernetes" alt="Kubernetes logo" title="Kubernetes" height="25" /> &nbsp;
 <img src="https://img.shields.io/badge/Kafka-282C34?logo=Apache Kafka&logoColor=050005" alt="Apache Kafka logo" title="Apache Kafka" height="25" /> &nbsp;
 
 <img src="https://img.shields.io/badge/dbt-282C34?logo=dbt" alt="dbt logo" title="dbt logo" height="25" /> &nbsp;
