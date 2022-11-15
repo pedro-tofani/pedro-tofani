@@ -31,9 +31,11 @@ Feel free to visit my repositories and to ask me anything! :wink: They have dife
 <img src="https://img.shields.io/badge/Kubernetes-282C34?logo=Kubernetes" alt="Kubernetes logo" title="Kubernetes" height="25" /> &nbsp;
 <img src="https://img.shields.io/badge/Kafka-282C34?logo=Apache Kafka&logoColor=050005" alt="Apache Kafka logo" title="Apache Kafka" height="25" /> &nbsp;
 
+<img src="https://img.shields.io/badge/dbt-282C34?logo=dbt" alt="dbt logo" title="dbt logo" height="25" /> &nbsp;
+<img src="https://img.shields.io/badge/Snowflake-282C34?logo=Snowflake" alt="Snowflake logo" title="Snowflake logo" height="25" /> &nbsp;
+
 <img src="https://img.shields.io/badge/AWS-282C34?logo=Amazon AWS&logoColor=fc4e03" alt="Amazon AWS logo" title="Amazon AWS" height="25" /> &nbsp;
 <img src="https://img.shields.io/badge/Databricks-282C34?logo=Databricks" alt="Databricks logo" title="Databricks" height="25" /> &nbsp;
-
 
 - 📫 How to contact me:
 
