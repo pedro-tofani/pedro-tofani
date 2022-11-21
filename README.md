@@ -1,5 +1,4 @@
 ### Hello | Olá ✋
-
 Hi, guys! Welcome to my page! :blush:
 
 My name is Pedro Tófani, I am from Belo Horizonte, Minas Gerais, Brazil. I am inserted into information technology industry since 2019. I am an open source enthusiast who thinks that good knowledge is the one that is shared. I also believe that working as a team leads you to much greater achievements. 
@@ -45,3 +44,6 @@ Feel free to visit my repositories and to ask me anything! :wink: They have dife
   <a href="mailto:ph.tofani@gmail.com">
     <img align="left" alt="PedroGmail" width="30px" src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/gmail.png" />
   </a>
+ 
+ &nbsp;
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedro-tofani&label=Profile%20views&color=0e75b6&style=flat" alt="pedro-tofani" /> </p>
